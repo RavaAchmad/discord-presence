@@ -10,20 +10,20 @@ details: "Be kind"
 state: "Join our discord"
 
 # Activity Images
-largeImageKey: "1463536328313536553"
-largeImageText: "Marewa"
-smallImageKey: "1463536162122764298"
-smallImageText: "Subscribe"
+largeImageKey: "whatsapp_image_2026-01-21_at_19_27_42"
+largeImageText: "https://discord.gg/BTScNHDV4D"
+smallImageKey: "6af558bd80fc89de7e01f279db9856f2_1_"
+smallImageText: "Marewa"
 
 # Activity URL (optional, works only with certain types)
 url: "https://discord.gg/BTScNHDV4D"
 
 # Activity Buttons (optional)
-# buttons:
-#   - name: "Visit Website"
-#     url: "https://www.nexoscreator.tech"
-#   - name: "GitHub Repo"
-#     url: "https://github.com/nexoslabs/discord-24-7-rich-presence"
+buttons:
+  - name: "Join Discord"
+    url: "https://discord.gg/BTScNHDV4D"
+  # - name: "GitHub Repo"
+  #   url: "https://github.com/nexoslabs/discord-24-7-rich-presence"
 
 # Activity Custom status
 custom_status: "Watching Marewa"
