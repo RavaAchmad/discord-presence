@@ -5,26 +5,26 @@ application_id: "1311204057490259979"
 type: 3
 
 # Activity Details
-name: "Youtube"
-details: "Watching Nexos Labs"
-state: "Subscribe"
+name: "Marewa"
+details: "Be kind"
+state: "Join our discord"
 
 # Activity Images
-largeImageKey: "1377844502521446490"
-largeImageText: "Watching Nexos Labs"
-smallImageKey: "1377845999464087653"
+largeImageKey: "1463536328313536553"
+largeImageText: "Marewa"
+smallImageKey: "1463536162122764298"
 smallImageText: "Subscribe"
 
 # Activity URL (optional, works only with certain types)
-url: "https://www.youtube.com/@nexoscreator"
+url: "https://discord.gg/BTScNHDV4D"
 
 # Activity Buttons (optional)
-buttons:
-  - name: "Visit Website"
-    url: "https://www.nexoscreator.tech"
-  - name: "GitHub Repo"
-    url: "https://github.com/nexoslabs/discord-24-7-rich-presence"
+# buttons:
+#   - name: "Visit Website"
+#     url: "https://www.nexoscreator.tech"
+#   - name: "GitHub Repo"
+#     url: "https://github.com/nexoslabs/discord-24-7-rich-presence"
 
 # Activity Custom status
-custom_status: "Watching tutorials"
+custom_status: "Watching Marewa"
 custom_emoji: "🔥"
